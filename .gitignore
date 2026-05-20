@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+__MACOSX/
+
+# Compilados C
+*.o
+*.out
+a.out
+
+# IDEs
+.vscode/
+*.code-workspace
